@@ -141,4 +141,4 @@ Each notebook is crafted to offer both theoretical insights and hands-on experie
 
 1. Clone the repository:
    ```bash
-  [ git clone https://github.com/username/repository.git](https://github.com/EtienneNtumba/Python-for-ML.git)
+  [https://github.com/EtienneNtumba/Python-for-ML.git](https://github.com/EtienneNtumba/Python-for-ML.git)
